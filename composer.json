@@ -1,0 +1,22 @@
+{
+    "name": "markniebergall/php-coding-competition",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^11.1",
+        "phpspec/prophecy-phpunit": "^2.2",
+        "mockery/mockery": "^1.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpCodingCompetition\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark Niebergall",
+            "email": "mbniebergall@gmail.com"
+        }
+    ],
+    "require": {}
+}
