@@ -16,11 +16,11 @@
 |              | 0                   |
 
 # Challenge 3: Least Memory Used
-| Name          | Memory (bytes) |
-|---------------|----------------|
-| Nils Anderson | 80420152       |
-|               | 0              |
-|               | 0              |
+| Name         | Memory (bytes) |
+|--------------|----------------|
+| Nils Aderman | 37312          |
+|              | 0              |
+|              | 0              |
 
 # Challenge 4: First to have all unit tests passing
 ## Winner: John Boctor
