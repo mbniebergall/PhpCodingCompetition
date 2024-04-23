@@ -11,14 +11,14 @@
 # Challenge 2: Fastest Time
 | Name         | Time (milliseconds) |
 |--------------|---------------------|
-|Nils Anderson | 0.08388598          |
+|Nils Adermann | 0.08388598          |
 |              | 0                   |
 |              | 0                   |
 
 # Challenge 3: Least Memory Used
 | Name          | Memory (bytes) |
 |---------------|----------------|
-| Nils Anderson | 80420152       |
+| Nils Adermann | 80420152       |
 |               | 0              |
 |               | 0              |
 
