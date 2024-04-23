@@ -2,36 +2,28 @@
 ## Leaderboard
 
 # Challenge 1: Most open source project contributions
-| Name | Count |
-|------|-------|
-|      | 0     |
-|      | 0     |
-|      | 0     |
+| Name         | Count |
+|--------------|-------|
+| | 0     |
+|              | 0     |
+|              | 0     |
 
 # Challenge 2: Fastest Time
-| Name | Time (milliseconds) |
-|------|---------------------|
-|      | 0                   |
-|      | 0                   |
-|      | 0                   |
+| Name         | Time (milliseconds) |
+|--------------|---------------------|
+|Nils Anderson | 0.08388598                   |
+|              | 0                   |
+|              | 0                   |
 
 # Challenge 3: Least Memory Used
-| Name | Memory (bytes) |
-|------|----------------|
-|      | 0              |
-|      | 0              |
-|      | 0              |
+| Name          | Memory (bytes) |
+|---------------|----------------|
+| Nils Anderson | 80420152              |
+|               | 0              |
+|               | 0              |
 
 # Challenge 4: First to have all unit tests passing
-| Name | Tests Passing |
-|------|---------------|
-|      | 0             |
-|      | 0             |
-|      | 0             |
+## Winner: John Boctor
 
 # Challenge 5: First to complete hash cracker
-| Name | Hashes Cracked |
-|------|----------------|
-|      | 0              |
-|      | 0              |
-|      | 0              |
+## Winner: Nick Shmakov
